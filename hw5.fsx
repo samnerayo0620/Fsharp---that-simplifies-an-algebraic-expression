@@ -1,5 +1,4 @@
 // Samuel Nerayo
-// c3400 - hw5.fsx
 // F# function hat simplifies an algebraic expression
 
 
